@@ -5,6 +5,7 @@
 
 ![spotify1](https://github.com/user-attachments/assets/6a5fda5b-b0f9-42a7-88fa-32e6d0c0fecc)
 
+![spotify2](https://github.com/user-attachments/assets/940d3897-4585-4a0d-90c3-a304a18b505e)
 
 
 ## Project Overview
