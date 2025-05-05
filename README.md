@@ -1,10 +1,8 @@
 **Spotify Listening Insights - Power BI Dashboard**
 
-**Dashboard Preview**
 ## Dashboard Preview
-![Dashboard Screenshot](
-![spotify](https://github.com/user-attachments/assets/d6cbe49b-c48a-472b-9cd8-31bea5140449)
-)
+![Dashboard Screenshot](![spotify1](https://github.com/user-attachments/assets/c689bdb5-2c3c-453a-bc9b-dd81a2bf970c)
+raw=true)
 
 **Project Overview**
 
