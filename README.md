@@ -1,12 +1,13 @@
-**Spotify Listening Insights - Power BI Dashboard**
+## Spotify Listening Insights - Power BI Dashboard
 
 ## Dashboard Preview
-(![spotify1](https://github.com/user-attachments/assets/c689bdb5-2c3c-453a-bc9b-dd81a2bf970c)
+![spotify](https://github.com/user-attachments/assets/782a72d8-799c-46fa-846e-d233f74a18bc)
+
 ![spotify1](https://github.com/user-attachments/assets/6a5fda5b-b0f9-42a7-88fa-32e6d0c0fecc)
 
 
 
-**Project Overview**
+## Project Overview
 
 This project analyzes Spotify listening behavior through an interactive Power BI dashboard. It provides insights into albums, artists, tracks, and overall listening patterns across different time periods and platforms.
 
